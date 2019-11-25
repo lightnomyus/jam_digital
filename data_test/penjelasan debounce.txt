@@ -1,0 +1,3 @@
+Skenario Debouncing:
+debouncing 00 : Tombol ditekan dan dilepas
+debouncing 01 : Tomboll ditekan tanpa dilepas
